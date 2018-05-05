@@ -1,0 +1,17 @@
+div{
+
+  font-size:11px;
+}
+.texto{
+  text-align: center;
+}
+.borda{
+  border-color: black;
+  border-style: dashed;
+}
+
+.texto-left{
+  text-align: left;
+  
+
+}
